@@ -11,8 +11,8 @@ public class Prueba {
         System.out.println("2. Double");
         int tipoDato = scanner.nextInt();
         
-        System.out.print("\033[H\033[2J");
-        System.out.flush();
+       // System.out.print("\033[H\033[2J");
+        //System.out.flush();
 
         System.out.println("-----------------Menú de Operaciones-------------"); 
         System.out.println("1. Suma.");
